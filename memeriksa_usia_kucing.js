@@ -37,3 +37,8 @@ const data2Tuti = [9, 16, 6, 8, 3];
 const data2Nining = [10, 5, 6, 1, 4];
 console.log("\nData Uji 2:");
 checkCats(data2Tuti, data2Nining);
+
+
+// Menambahkan belajar github
+// - Framework Javascript
+//   * Angular
